@@ -26,7 +26,7 @@ En este proyecto nos enfocamos en la implementación de los 6 patrones más util
 | **5. Iterator** | Permite recorrer los elementos de una colección secuencialmente sin exponer su estructura interna. | Recorrido uniforme sobre listas, árboles o colecciones personalizadas. |
 | **6. Template Method** | Define el esqueleto de un algoritmo en una clase base y delega pasos específicos a las subclases. | Flujos de procesamiento con pasos fijos y variaciones puntuales (por ejemplo, generación de reportes). |
 
-El catálogo GoF de comportamiento se completa con otros 5 patrones de alcance más específico: **Mediator**, **Memento**, **Chain of Responsibility**, **Visitor** e **Interpreter**. ```
+El catálogo GoF de comportamiento se completa con otros 5 patrones de alcance más específico: **Mediator**, **Memento**, **Chain of Responsibility**, **Visitor** e **Interpreter**. 
 
 ## Criterios Clave de Diseño
 
